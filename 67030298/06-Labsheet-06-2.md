@@ -20,6 +20,8 @@
 3. คำนวณค่า **$R^2$ (Coefficient of Determination)** เพื่อประเมินความแม่นยำของสมการ
 4. ระบุจุด **Threshold RSSI (dBm)** ที่ความเร็วเริ่มลดลงมากกว่า 50% จากระดับสูงสุด
 
+<img width="1071" height="532" alt="image" src="https://github.com/user-attachments/assets/b9d1e34b-a18a-467d-9dbe-6d8e4ba2cb58" />
+
 ---
 
 ## 7. คำถามท้ายการทดลอง (Post-Lab Questions)
