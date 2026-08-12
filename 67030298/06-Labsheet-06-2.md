@@ -191,6 +191,7 @@ I (69430) LAB_SOFTAP: =======================================================
 ```
 
 ## Output Log Client (อาทิตยา 260)
+```text
 art.c:27
 I (27) boot: ESP-IDF v6.0.2 2nd stage bootloader
 I (27) boot: compile time Aug 10 2026 10:30:17
@@ -375,3 +376,4 @@ I (36429) CLIENT_PROFILER:   -> Time Elapsed       : 0.205 Seconds
 I (36439) CLIENT_PROFILER:   -> Measured Speed     : 2002.62 Kbps
 I (36439) CLIENT_PROFILER: =======================================================
 I (38449) CLIENT_PROFILER: All benchmark rounds completed
+```
