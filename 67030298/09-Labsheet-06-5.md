@@ -7,6 +7,10 @@
 | **1** | iPad / B6:38:8E:D5:D5:6B | -40 | Near | Passed |
 | **2** | Smartphone / 56:54:8C:A2:DA:65 | -63 | Far | Rejected |
 
+<img width="1600" height="1112" alt="iPad" src="https://github.com/user-attachments/assets/2787e66d-0074-483c-9dd7-66bb3dc125f2" />
+
+<img width="720" height="1600" alt="Smartphone" src="https://github.com/user-attachments/assets/1600a83a-f982-4cc8-9aab-f4715b6fd529" />
+
 ---
 
 ## 6. คำถามท้ายการทดลอง (Post-Lab Questions)
