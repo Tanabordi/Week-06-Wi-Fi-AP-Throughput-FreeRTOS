@@ -8,6 +8,12 @@
 |  **2**   |       26.7       |     64.7     |    437    |      27900     |
 |  **3**   |       32.0       |     59.4     |    318    |      36970     |
 
+<img width="670" height="635" alt="33" src="https://github.com/user-attachments/assets/8d9ea1f6-92a6-45a4-845d-4fbb9b81a388" />
+
+<img width="727" height="637" alt="34" src="https://github.com/user-attachments/assets/1c47e4b9-a0df-4c05-b5cd-a979e0a6a196" />
+
+<img width="722" height="676" alt="35" src="https://github.com/user-attachments/assets/57314211-bdea-4539-b1e7-f6e30fe98251" />
+
 ### 7.2 ทดสอบ JSON API (`/api/data`)
 
 บันทึก Raw JSON Response จาก Browser:
@@ -15,6 +21,8 @@
 ```json
 {"temperature":33.20,"humidity":63.60,"light_lux":486,"timestamp_ms":46030}
 ```
+
+<img width="617" height="152" alt="36" src="https://github.com/user-attachments/assets/ad510af9-564a-4ad4-a607-4b1c4e781efc" />
 
 ---
 
